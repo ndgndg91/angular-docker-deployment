@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-docker-aws"
+    }
+  },
+  "defaultProject": "angular-docker-aws",
+  "cli": {
+    "analytics": "12c6afa8-b3a2-4976-884c-d675374ed271"
+  }
 }
